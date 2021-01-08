@@ -1,0 +1,82 @@
+
+ul{
+margin:0px 0px 0px -15px;
+padding:0px;
+} 
+li{
+margin:0px;
+padding:0px;
+list-style:none;
+}
+
+.RS
+{
+background-color:#464a4d; 
+height:26px; 
+width:26px;
+text-decoration:none;
+color:white;
+transition:all .5s;
+}
+.RS:hover
+{
+background-color:#6bc3f0;
+}
+.AboutEf
+{
+border:1px white solid;
+transition:all .5s;
+}
+.AboutEf:hover{
+border-top-width:5px;
+border-top-color:#FF0000;
+border-top-style:solid;
+border-left-width:2px;
+border-left-color:lightgray;
+border-left-style:outset;
+border-right-width:2px;
+border-right-color:lightgray;
+border-right-style:inset;
+border-bottom-width:5px;
+border-bottom-color:#FF0000; 
+border-bottom-style:solid;
+}
+.BlocEf
+{
+color:black;
+transition:all .5s;
+}
+.BlocEf:hover
+{
+color:#008f39;
+}
+.FootEf
+{
+text-decoration:none;
+color:white;
+transition:all .5s;
+}
+.FootEf:hover
+{
+color:#6bc3f0;
+}
+.Scont
+{
+background-color:#6bc3f0;
+font-weight:bold;
+color:white;
+font-size:14px;
+ text-transform:uppercase;
+ padding:10px 40px 10px 40px;
+transition:all .5s;
+}
+.Scont:hover
+{
+background-color:#6baaf0;
+text-decoration:none;
+color:white;
+}
+
+.home
+{
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);}
